@@ -106,6 +106,13 @@ body{
 	padding-right: 30px;
 	text-align: justify;
 }
+.description-download__img img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	height: auto;
+}
 .description__img img{
 	width: 400px;
 }
